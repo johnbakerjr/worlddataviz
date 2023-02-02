@@ -210,7 +210,7 @@ fig.add_annotation(x=0.17, y=-.35, text="Investments Falling Short", showarrow=F
 fig.update_layout(
     title={
         'text': "G20 Countries Have Invested Little as Temperatures Dramatically Increased Over the Last Decade",
-        'y':0.9,
+        'y':1.5,
         'x':0.5,
         'xanchor': 'center',
         'yanchor': 'top'},
