@@ -217,4 +217,4 @@ fig.update_layout(
     showlegend=False
     )
 
-fig.write_html("index.html", include_plotlyjs='cdn')
+fig.write_html("index.html", include_plotlyjs='cdn', auto_play=False)
